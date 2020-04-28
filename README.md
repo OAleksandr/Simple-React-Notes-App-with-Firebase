@@ -11,6 +11,7 @@
     ```javascript 
      const URL = "YOUR LINK TO FIREBASE DATABSE"; 
     ```
+   3. Example:
 3. Open Terminal (View/Terminal)
    1. In the Terminal run __npm install__
    2. Then run __npm run start__
