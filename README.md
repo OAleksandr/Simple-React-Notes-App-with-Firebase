@@ -11,3 +11,4 @@
     ```javascript 
      const URL = "YOUR LINK TO FIREBASE DATABSE"; 
     ```
+3. Open Terminal (View/Terminal)
