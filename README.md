@@ -8,6 +8,6 @@
 2. Run it through the VS Code.
    1. Open src/context/firebase/__FirebaseState.js__ file.
    2. Put Your Database link.
-   ```javascript 
-    const URL = "YOUR LINK TO FIREBASE DATABSE"; 
-   ```
+    ```javascript 
+     const URL = "YOUR LINK TO FIREBASE DATABSE"; 
+    ```
