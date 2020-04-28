@@ -12,3 +12,4 @@
      const URL = "YOUR LINK TO FIREBASE DATABSE"; 
     ```
 3. Open Terminal (View/Terminal)
+   1. In the Terminal run __npm install__
