@@ -2,4 +2,7 @@
 ***
 ![](Images/note-app.png)
 ***
-#Setup
+## Setup
+1. Download
+2. Run it through the VS Code.
+... ..1
