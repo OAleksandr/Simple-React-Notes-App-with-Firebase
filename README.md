@@ -10,3 +10,7 @@
    2. In ```javascript 
             const URL = 'YOUR LINK TO FIREBASE DATABSE'; 
          ```
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
