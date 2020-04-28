@@ -8,7 +8,7 @@
 2. Run it through the VS Code.
    1. Open src/context/firebase/__FirebaseState.js__ file.
    2. In ```javascript 
-            const URL = 'YOUR LINK TO FIREBASE DATABSE'; 
+            const URL = "YOUR LINK TO FIREBASE DATABSE"; 
          ```
 ```javascript
 const s = "JavaScript syntax highlighting";
