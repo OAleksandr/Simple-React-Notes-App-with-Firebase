@@ -5,4 +5,4 @@
 ## Setup
 1. Download
 2. Run it through the VS Code.
-  - Open Terminal
+  1. Open Terminal
