@@ -11,6 +11,6 @@
             const URL = 'YOUR LINK TO FIREBASE DATABSE'; 
          ```
 ```javascript
-var s = "JavaScript syntax highlighting";
+const s = "JavaScript syntax highlighting";
 alert(s);
 ```
