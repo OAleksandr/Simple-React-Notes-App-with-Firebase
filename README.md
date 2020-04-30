@@ -17,4 +17,4 @@
     ```
 3. Open Terminal (View/Terminal)
    1. In the Terminal run __npm install__
-   2. Then run __npm run start__
+   2. Then run __npm start__
